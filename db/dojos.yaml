@@ -2687,6 +2687,20 @@
   - Scratch
   - Webサイト
   - Ruby
+- id: 284
+  order: '322024'
+  created_at: '2022-05-19'
+  name: 浜田＠いわみプログラミング少年団
+  prefecture_id: 32
+  logo: "/img/dojos/japan.png"
+  url: https://connpass.com/user/iwapro103/open/
+  description: 浜田市で毎月開催
+  tags:
+  - Scratch
+  - micro:bit
+  - Webサイト
+  - Unity
+  - Ruby
 - id: 245
   order: '325015'
   created_at: '2020-03-10'
